@@ -48,7 +48,7 @@ The coding assessment consists of four exercises conducted on an online platform
 
 Prepare responses using the STAR method (Situation, Task, Action, Result) to provide clear, structured answers.
 
-- [Behavioral Interview Questions and Example Answers](https://docs.google.com/document/d/179Pwu5GMi61Zgo_kKzDOSJp505hDhTRPS8UpT0jIezY/edit?usp=sharing)
+- [Behavioral Interview Questions and Example Answers](https://github.com/juadolfob/C1-I-G/blob/main/QA_BEHABIORAL.md)
 - [STAR Method Videos](https://www.youtube.com/results?search_query=star+method)
 - [Behavioral Interview Preparation Videos](https://www.youtube.com/results?search_query=behavioral+interview)
 

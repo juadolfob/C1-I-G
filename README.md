@@ -1,59 +1,77 @@
+# 💼 Capital One Interview Preparation Guide 💡
 
+## 📌 Preparation Tips
 
-### **Preparation Tips**:
+### 1. 🧩 Leetcode Practice
 
+Practice Leetcode problems to prepare for coding assessments. This will help improve your problem-solving skills and time management.
 
+- [Top Interview Questions on Leetcode](https://leetcode.com/studyplan/top-interview-150/)
 
-- **Leetcode Practice**: [https://leetcode.com/studyplan/top-interview-150/](https://leetcode.com/studyplan/top-interview-150/)
-- **Company Research**: Gain a comprehensive understanding of Capital One, including its core values, products, and corporate culture. Demonstrating such knowledge can significantly enhance her ability to answer questions like, "Why do you want to work here?"
+### 2. 🏢 Company Research
 
-* **Practice Common Interview Questions**: Prepare responses to commonly asked questions such as "Tell me about yourself," "What are your strengths and weaknesses?", and "Where do you see yourself in five years?".
+Understand Capital One’s core values, news, products, and culture. This knowledge will help you respond effectively to questions like, "Why do you want to work here?" and other questions.
 
-* **Questions for the Interviewer**: Prepare thoughtful questions for the interviewer to exhibit genuine interest in the position and the company. Topics may include inquiries about team dynamics, company objectives, and career development opportunities.
+### 3. ❓ Questions for the Interviewer
 
-* **Mock Interviews**: Simulate the interview experience by engaging in mock interviews with a friend or utilizing online tools. Practice answering questions in English to improve fluency, as part of the interview will be conducted in English. Make sure to mock every part of the interview, including behavioral, technical, case, and system design sections. Such practice sessions will help reduce anxiety and refine her ability to present effectively.
+Prepare insightful questions for the interviewer about team dynamics, company goals, or career opportunities. This shows genuine interest in both the position and company.
 
-* **Clarification Requests**: Encourage her to seek clarification whenever necessary. Asking for additional details if she does not fully understand a question is a reflection of her commitment to accuracy and effective communication.
+### 4. 🎭 Mock Interviews
 
-* **Addressing Weaknesses**: Prepare a considered response for questions like, "What is your biggest weakness?" For instance: "Particularly for this position, my biggest weakness might be a lack of on-site work experience, but I am highly motivated to overcome this challenge by refining my soft skills and adapting to the corporate environment."
+Conduct mock interviews with a friend or use online tools. Practice every part of the interview, including behavioral, technical, case, and system design sections. Practicing in English is especially important, as part of the interview will be conducted in English. This preparation will help reduce anxiety and improve performance.
 
-## Interviews
+### 5. 🔍 Clarification Requests
 
-1. **First Interview**:\
-   This interview is intended to get to know you better and assess your fit within the company culture and team. It will also include questions about your salary expectations, handled by the HR hiring team. Additionally, part of the interview will be conducted in English.
+Don't hesitate to ask for clarification when needed. This shows attention to detail and demonstrates your commitment to effective communication.
 
-2. **English Exam**:\
-   This exam assesses Writing, Reading, Speaking, and Listening skills, conducted online on a platform.
+---
 
-3. **Coding Assessment**:\
-   The coding assessment consists of four exercises conducted on an online platform, with a time limit of 90-120 minutes. Many candidates have mentioned that time management is the biggest challenge, so being well-prepared through Leetcode practice can significantly improve your chances of success.\
-   [https://leetcode.com/studyplan/top-interview-150/](https://leetcode.com/studyplan/top-interview-150/)
+## 📝 Interview Stages
 
-4. **PowerDay**:
+### 1. 🗣️ First Interview
 
-   - **Behavioral Interview**:\
-     Practice responses using the STAR method (Situation, Task, Action, Result) to provide clear and structured answers.
+This initial interview helps assess your fit within the company culture and team. It includes questions about salary expectations, handled by the HR team, and part of the interview will be conducted in English.
 
-     - [Behavioral Interview Questions and Example Answers](https://docs.google.com/document/d/179Pwu5GMi61Zgo_kKzDOSJp505hDhTRPS8UpT0jIezY/edit?usp=sharing) (add your own answer and mock)
-     - [STAR Method Videos](https://www.youtube.com/results?search_query=star+method)
-     - [Behavioral Interview Preparation Videos](https://www.youtube.com/results?search_query=behavioral+interview)
+### 2. 📚 English Exam
 
-   - **Technical Interview**:\
-     Regularly practice coding problems on platforms like Leetcode and be prepared to articulate the underlying logic and methodology behind your solutions.
+An online exam that assesses your writing, reading, speaking, and listening skills.
 
-     - [Practice Problem](https://leetcode.ca/all/588.html) (Similar problem given to me and coworkers)
+### 3. 💻 Coding Assessment
 
-   - **Case Interview**:\
-     Prepare to tackle case-based problems that demand structured reasoning and logical analysis.
+The coding assessment consists of four exercises conducted on an online platform, with a time limit of 90-120 minutes. Many candidates struggle with time management, so practicing on Leetcode is highly recommended.
 
-     - [Case Interview Examples - Blog](https://igotanoffer.com/blogs/mckinsey-case-interview-blog/case-interview-examples)
-     - [Case Study Interview Prep Examples](https://www.myconsultingoffer.org/case-study-interview-prep/examples/)
-     - [Case Interview Videos](https://www.youtube.com/results?search_query=case_interview)
+- [Top Interview Questions on Leetcode](https://leetcode.com/studyplan/top-interview-150/)
 
-   - **System Design Interview**:\
-     The system design interview will evaluate your ability to create scalable and efficient system architecture. Practice by designing complex systems using AWS services as reference, which will give you extra points. Focus on understanding trade-offs, and consider factors such as data storage, security, scalability, and how AWS offerings like EC2, S3, and RDS can be leveraged to build robust architectures.
+### 4. ⚡ PowerDay Interviews
 
-     - [System Design Full Course - Playlist](https://www.youtube.com/playlist?list=PLot-Xpze53le35rQuIbRET3YwEtrcJfdt)
-     - [System Design Primer](https://www.youtube.com/watch?v=i7twT3x5yv8)
-     - [System Design with AWS](https://www.youtube.com/watch?v=FDEpdNdFglI) (nice to have AWS as reference)
-     - [LeetCode System Design Interview](https://www.youtube.com/watch?v=FDEpdNdFglI) (premium course *important*)
+#### 4.1 🤝 Behavioral Interview
+
+Prepare responses using the STAR method (Situation, Task, Action, Result) to provide clear, structured answers.
+
+- [Behavioral Interview Questions and Example Answers](https://docs.google.com/document/d/179Pwu5GMi61Zgo_kKzDOSJp505hDhTRPS8UpT0jIezY/edit?usp=sharing)
+- [STAR Method Videos](https://www.youtube.com/results?search_query=star+method)
+- [Behavioral Interview Preparation Videos](https://www.youtube.com/results?search_query=behavioral+interview)
+
+#### 4.2 💡 Technical Interview
+
+Practice coding problems and be ready to explain your approach and logic.
+
+- [Practice Problem](https://leetcode.ca/all/588.html) (similar problem given to coworkers)
+
+#### 4.3 🧠 Case Interview
+
+Prepare for case-based questions that require structured reasoning and logical analysis.
+
+- [Case Interview Examples - Blog](https://igotanoffer.com/blogs/mckinsey-case-interview-blog/case-interview-examples)
+- [Case Study Interview Prep Examples](https://www.myconsultingoffer.org/case-study-interview-prep/examples/)
+- [Case Interview Videos](https://www.youtube.com/results?search_query=case_interview)
+
+#### 4.4 🏗️ System Design Interview
+
+Practice designing scalable system architectures, using AWS services for extra points. Focus on understanding trade-offs involving data storage, security, and scalability, and use AWS tools like EC2, S3, and RDS.
+
+- [System Design Full Course - Playlist](https://www.youtube.com/playlist?list=PLot-Xpze53le35rQuIbRET3YwEtrcJfdt)
+- [System Design Primer](https://www.youtube.com/watch?v=i7twT3x5yv8)
+- [System Design with AWS](https://www.youtube.com/watch?v=FDEpdNdFglI)
+- [System Design LeetCode](https://drive.google.com/file/d/1o0-2bK-eh2eav8T4pW9pzetI_lXZWZ80/view?usp=sharing) (This is a must)
+
